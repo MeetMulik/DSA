@@ -5,12 +5,17 @@
 <ul>
 
 <li>Linked List</li>
-   <ul><li>Singly Linked List</li>
-<li>Doubly Linked List</li>
-<li>Circular Linked List</li>  </ul>
+   <ul>
+        <li>Singly Linked List</li>
+        <li>Doubly Linked List</li>
+        <li>Circular Linked List</li>  
+        <li>Doubly Circular Linked List</li>  
+    </ul>
 <li>Stack</li>
   
 <li>Queue</li>
-   <ul><li>Linear Queue</li>
+   <ul>
+        <li>Linear Queue
+   </li>
 <li>Circular Queue</li>
  </ul>
