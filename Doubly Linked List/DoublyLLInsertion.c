@@ -130,7 +130,39 @@ void insertAtPosition()
     }
 }
 
+void insertAfterPosition()
+{
+    int n;
+    int i = 0;
+    int count = countNodes();
 
+    printf("Enter position: \n");
+    scanf("%d", &n);
+
+    struct node *newnode, *temp;
+    temp = head;
+    if (n >= count)
+    {
+        insertAtEnd();
+    }
+    else
+    {
+
+        newnode = (struct node *)malloc(sizeof(struct node));
+        printf("Enter Data for node: ");
+        scanf("%d", &newnode->data);
+        while (i < n - 1)
+        {
+            temp = temp->next;
+            i++;
+        }
+        newnode->prev = temp;
+        newnode->next = temp->next;
+        temp->next = newnode;
+        (newnode->next)->prev = newnode;
+        printf("Element inserted after Position..\n");
+    }
+}
 
 void display()
 {
