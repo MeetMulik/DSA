@@ -1,3 +1,5 @@
+//Push, Pop , Peek and Display functions on Stack using Linked List
+
 #include <stdio.h>
 #include <stdlib.h>
 
