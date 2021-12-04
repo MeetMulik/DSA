@@ -18,6 +18,16 @@
       <li>Linear Queue</li>
       <li>Circular Queue</li>
    </ul>
+
+
+<li>Trees</li>
+   <ul>
+      <li>Binary Search Trees</li>
+      <li>AVL Trees</li>
+   </ul>
+
+
+
 <li>Sorting Algorithms</li>
    <ul>
       <li>Insertion Sort</li>
@@ -25,4 +35,6 @@
       <li>Quick Sort</li>
       <li>Merge Sort</li>
    </ul>
+
+
 </ul>
