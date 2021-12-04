@@ -15,7 +15,14 @@
   
 <li>Queue</li>
    <ul>
-        <li>Linear Queue
-   </li>
-<li>Circular Queue</li>
- </ul>
+      <li>Linear Queue</li>
+      <li>Circular Queue</li>
+   </ul>
+<li>Sorting Algorithms</li>
+   <ul>
+      <li>Insertion Sort</li>
+      <li>Selection Sort</li>
+      <li>Quick Sort</li>
+      <li>Merge Sort</li>
+   </ul>
+</ul>
