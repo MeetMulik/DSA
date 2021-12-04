@@ -26,7 +26,11 @@
       <li>AVL Trees</li>
    </ul>
 
-
+<li>Searching Algorithms</li>
+   <ul>
+      <li>Linear Search</li>
+      <li>Binary Search</li>
+   </ul>
 
 <li>Sorting Algorithms</li>
    <ul>
